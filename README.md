@@ -41,9 +41,7 @@ This repository contains materials and lectures for the joint NBIS and BIIF spat
 
 09:00 - 09:30	Lab: 02b_ISS_Decoding_QC
 
-09:30 - 10:30 Lecture: Segmentation-based and 		                    Naveed (?)
-
-segmentation-free cell identification                Sebastian (?)
+09:30 - 10:30 Lecture: Segmentation-based and segmentation-free cell identification. Naveed (?) Sebastian (?)
 
 10:30 - 12:00	*Coffee Break*
 
